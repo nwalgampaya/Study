@@ -1,3 +1,4 @@
+ssh test
 <<<<<<< Updated upstream
 Testing the clean
 Commit 2
